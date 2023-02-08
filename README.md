@@ -9,5 +9,5 @@
 - 💬 Ask me about Backend
 - 📫 How to reach me: muhammadahsanty@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: I was a professional tabble tennis player before comming into this feild
+- ⚡ Fun fact: I was a professional tabble tennis player before i came into this feild
 
