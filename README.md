@@ -6,7 +6,7 @@ Experienced Node.js developer proficient in NEST JS and Express frameworks, spec
 crafting RESTful APIs. I am eager to learn new tech and languages. With a solid software engineering foundation 
 and a commitment to top-notch code, also have experience in flutter Development.
 
--🔭 I’m currently working as a Backend Developer @eSpark-Consultants
+ -🔭 I’m currently working as a Backend Developer @eSpark-Consultants
 - 📫 How to reach me: muhammadahsanty@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: I was a professional tabble tennis player before i came into this feild
